@@ -1,1 +1,2 @@
 # MathAI
+go away
